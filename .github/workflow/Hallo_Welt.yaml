@@ -8,4 +8,4 @@ jobs:
   Hallo-IGD20:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hallo IGD20!"
+      - run: echo "Hallo bald ist Feierabend!"
